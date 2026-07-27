@@ -10,9 +10,6 @@
   <a href="https://linkedin.com/in/farha-tazmeen">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/tazmeen24">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="https://tryhackme.com/p/farha2409">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
   </a>
@@ -161,8 +158,8 @@ Topics explored:
 ## // GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tazmeen24&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tazmeen24&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tazmeen24&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tazmeen24&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
