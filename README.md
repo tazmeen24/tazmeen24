@@ -20,18 +20,6 @@
 
 ---
 
-## `whoami`
-
-```bash
-$ whoami
-
-Farha Tazmeen
-
-Cyber Security Engineering Student
-```
-
----
-
 ## // Current Focus
 
 `Web Security` • `Digital Forensics` • `Applied Cryptography` • `Reverse Engineering` • `Secure Systems` • `Open Source`
