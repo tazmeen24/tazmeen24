@@ -27,131 +27,29 @@ $ whoami
 
 Farha Tazmeen
 
-Role:
-  Cyber Security Engineering Student
-
-Interests:
-  [+] Digital Forensics
-  [+] Web Application Security
-  [+] Applied Cryptography
-  [+] Secure Software Engineering
-
-Currently:
-  [+] Building security-focused projects
-  [+] Solving CTF challenges
-  [+] Contributing to Open Source
-  [+] Exploring secure system design
+Cyber Security Engineering Student
 ```
-
-I enjoy understanding how systems work, where they break, and how they can be made more secure.
-
-Most of my time goes into building backend applications, exploring vulnerabilities through CTFs, contributing to open source, and learning about cryptography, networks, and secure architecture.
-
-I like projects that sit at the intersection of **software engineering and cybersecurity** - building things, breaking things, and understanding why they fail.
 
 ---
 
-## // Current Explorations
+## // Current Focus
 
-<table>
-<tr>
-<td>
-
-```
-[+] Digital Forensics
-[+] Web Security
-[+] Applied Cryptography
-```
-
-</td>
-<td>
-
-```
-[+] Secure Backend Development
-[+] Reverse Engineering
-[+] Linux Internals
-```
-
-</td>
-</tr>
-</table>
+`Web Security` • `Digital Forensics` • `Applied Cryptography` • `Reverse Engineering` • `Secure Systems` • `Open Source`
 
 ---
 
 ## // Open Source
 
 ### GirlScript Summer of Code 2026
+
 **Cybersecurity & Architecture Contributor**
 
-| Area | Contributions |
-|---|---|
+| Area     | Contributions                                    |
+| -------- | ------------------------------------------------ |
 | Security | Security improvements, validation, documentation |
-| Backend | Authentication, API improvements, architecture |
-| Frontend | React-based features and improvements |
-| Focus | Writing secure, maintainable code |
-
----
-
-## // Things I'm Building
-
-<details open>
-<summary><b>Secure Project Tracking Dashboard</b> - FastAPI • React • PostgreSQL • JWT</summary>
-
-<br>
-
-A full-stack project and financial management platform focused on secure data handling.
-
-Features:
-
-- JWT Authentication
-- Role-Based Access Control
-- REST API architecture
-- Budget and resource tracking
-- Audit logging
-- Analytics dashboard
-
-</details>
-
-
-<details>
-<summary><b>Security Utilities</b> - Security tools and automation experiments</summary>
-
-<br>
-
-A growing collection of utilities for learning and automation:
-
-- Log analysis
-- Packet inspection
-- Network automation
-- Digital forensics helpers
-- CTF tooling
-
-</details>
-
-
-<details>
-<summary><b>CTF Research Notes</b> - Learning through challenges</summary>
-
-<br>
-
-Topics explored:
-
-- Web exploitation
-- Digital forensics
-- Cryptography
-- Reverse engineering
-- OSINT
-
-</details>
-
----
-
-## // Toolbox
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,c,react,nextjs,fastapi,django,postgres,mysql,git,github,linux,vscode"/>
-</p>
-
+| Backend  | Authentication, API improvements, architecture   |
+| Frontend | React-based features and improvements            |
+| Focus    | Secure and maintainable code                     |
 
 ---
 
@@ -163,36 +61,5 @@ Topics explored:
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tazmeen24&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## // Beyond Code
-
-```
-> Learn by building
-> Understand by breaking
-> Improve by fixing
-```
-
-Outside technical work, I enjoy exploring new ideas, reading about technology, and turning random concepts into small experiments.
-
----
-
-## // Current Philosophy
-
-```c
-while (learning) {
-    build();
-    break();
-    fix();
-    repeat();
-}
-```
-
----
-
-<p align="center">
-<i>Always open to discussions about security, systems, cryptography, and open source.</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tazmeen24&theme=github-dark&hide_border=true"/>
 </p>
